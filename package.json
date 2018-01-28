@@ -70,7 +70,7 @@
     "fs-extra": "^4.0.0",
     "object-assign": "^4.1.1",
     "retry": "^0.10.0",
-    "write-file-atomic": "2.3.0"
+    "write-file-atomic": "github:Knagis/write-file-atomic"
   },
   "devDependencies": {
     "cbor-sync": "^1.0.2",
